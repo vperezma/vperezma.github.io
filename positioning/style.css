@@ -1,0 +1,9 @@
+body{
+	background-color: lightblue;
+}
+.container{
+	max-width: 900px;
+	background-color: #efefef;
+	margin:0 auto;
+	padding:5em;
+}

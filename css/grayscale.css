@@ -250,3 +250,23 @@ body {
   border: 0;
   width: 10%;
 }
+
+.listStyle {
+  list-style-type: none;
+}
+
+.black {
+  color:black;
+}
+
+.carousel-indicators li {
+ background: #afafaf;
+}
+
+.carousel-indicators .active {
+  background: black;
+ }
+
+ .card-body {
+   margin-bottom: 50px;
+ }
